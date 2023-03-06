@@ -1,2 +1,2 @@
-# Projects-
+# Projects
 To train different techniques 
