@@ -1,3 +1,0 @@
-A Portuguese e-commerce company that sells electronic devices wants to extract business knowledge from data representing sales and product deliveries. Especially important is to develop models to:  
-1. Predict if the product reach on time and also 
-2. To predict next week total costs using the total costs of the previous two weeks. 
