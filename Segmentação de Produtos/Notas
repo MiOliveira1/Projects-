@@ -1,0 +1,4 @@
+Segmentação de Produtos via critério ABC:
+- A: Vendas acumuladas inferior a 70% do total 
+- B: Vendas acumuladas entre 70% e 90%
+- C: Restantes 
